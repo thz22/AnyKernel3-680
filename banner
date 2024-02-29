@@ -2,7 +2,7 @@
 ------------------------------------------------
 Device: Redmi 10C (fog | rain | wind)
 Version: R3
-KernelSU: No
+KernelSU: Yes
 Kernel Version: 4.19.306
 ------------------------------------------------
 ** Sit back and relax. Kernel is installing.. **
