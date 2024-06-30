@@ -1,9 +1,12 @@
-******** Mi680-WeatheringWithYou Kernel ********
-------------------------------------------------
-Device: Redmi 10C (fog | rain | wind)
-Version: R3
-KernelSU: Yes
-Kernel Version: 4.19.306
-------------------------------------------------
-** Sit back and relax. Kernel is installing.. **
-------------------------------------------------
+  .--.  .---. .-.     .--.   .----.
+ / {} \{_   _}| |    / {} \ { {__  
+/  /\  \ | |  | `--./  /\  \.-._} }
+`-'  `-' `-'  `----'`-'  `-'`----' 
+-----------------------------------
+Atlas Kernel by rootd
+Version: 1BKSU
+Supported devices: fog/rain/wind
+Redmi 10C/10 India/10 Power
+-----------------------------------
+Sit back and relaxx
+The kernel is installing...........
