@@ -2,14 +2,11 @@
  / {} \{_   _}| |    / {} \ { {__  
 /  /\  \ | |  | `--./  /\  \.-._} }
 `-'  `-' `-'  `----'`-'  `-'`----' 
-Here comes the sun...
+O partigiano, portami via...
 -----------------------------------
 Atlas Kernel by rootd
-Version: 2B, non-KSU
-Note: experimental build
-ONLY FOR TESTING PURPOSES
+Version: 2A, non-KSU
 Supported devices: fog/rain/wind
 Redmi 10C/10 India/10 Power
 -----------------------------------
-Sit back and relax
-The kernel is installing...........
+Changelog: added EROFS support
